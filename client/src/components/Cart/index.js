@@ -6,6 +6,10 @@ import { idbPromise } from "../../utils/helpers";
 import CartItem from "../CartItem";
 import Auth from "../../utils/auth";
 // import { useStoreContext } from "../../utils/GlobalState";
+
+// import useDispatch and useSelector methods
+import { useDispatch, useSelector } from "react-redux";
+
 import { TOGGLE_CART, ADD_MULTIPLE_TO_CART } from "../../utils/actions";
 import "./style.css";
 

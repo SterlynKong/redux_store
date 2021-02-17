@@ -1,7 +1,9 @@
+// require mongoose
 const mongoose = require('mongoose');
 
 const { Schema } = mongoose;
 
+// declare schema for product in mongodb
 const productSchema = new Schema({
   name: {
     type: String,
@@ -31,6 +33,8 @@ const productSchema = new Schema({
   }
 });
 
+// Set model = to mongoose schema
 const Product = mongoose.model('Product', productSchema);
 
+// export model
 module.exports = Product;

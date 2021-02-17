@@ -5,6 +5,16 @@
   an online store with checkout option built using MERN
 
 
+  ## Technologies:
+   - MongoDB
+   - ExpressJS
+   - React
+   - NodeJS
+   - JavaScript
+   - CSS
+   - HTML
+
+
 
   ## Table of contents:
   * [Installation](#installation)

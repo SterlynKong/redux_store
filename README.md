@@ -48,7 +48,7 @@
   https://sm0l-sh0p.herokuapp.com
 
 
-  ## GIF Site Preview:
+  ## Site Preview - GIF:
 ![sm0l_sh0p](images/sm0l_sh0p_preview.gif "sm0l_sh0p preview")
 
 
